@@ -1,6 +1,5 @@
-# JaMoskeeto's THREE.js blog--Day 1
-# In Chinese
-安装和基本三大组建的创建和配置
+# JaMoskeeto的three.js博客，第一天
+## 安装和基本三大组建的创建和配置
 ```
 安装（2种方法）
 1. https://cdn.staticfile.org/three.js/r{version}/three.js
